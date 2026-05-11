@@ -1,2 +1,5 @@
 # chimera-dots
-improved ig
+Goated Chimera BSPWM dots?
+UNTESTED AND WILL PROLLY BE UNMAINTAINED
+AFTER A FEW MONTHS
+USE AT YOUR OWN RISK
